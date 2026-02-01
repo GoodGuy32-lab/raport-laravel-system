@@ -6,6 +6,12 @@ A web-based student reporting application built with **Laravel 10** and **MySQL*
 * **Student Management**: Full CRUD (Create, Read, Update, Delete) for student data.
 * **Subject Management**: Manage school subjects (Mapel) easily.
 * **Modern UI**: Styled with Tailwind CSS for a clean, responsive look.
+* Tech Stack
+* **Framework**: Laravel 10
+* **Language**: PHP 8.x
+* **Database**: MySQL (XAMPP)
+* **Styling**: Tailwind CSS / Bootstrap (choose yours)
+* **Tools**: Git, Composer, NPM
 
 ## Installation
 1. Clone the repo: `git clone https://github.com/GoodGuy32-lab/raport-laravel-system.git`
