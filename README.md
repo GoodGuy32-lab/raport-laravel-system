@@ -8,7 +8,7 @@ A web-based student reporting application built with **Laravel 10** and **MySQL*
 * **Modern UI**: Styled with Tailwind CSS for a clean, responsive look.
 
 ## Installation
-1. Clone the repo: `git clone https://github.com/GoodGuy32-lab/new-repository-orwhatever.git`
+1. Clone the repo: `git clone https://github.com/GoodGuy32-lab/raport-laravel-system.git`
 2. Install dependencies: `composer install && npm install`
 3. Setup environment: `cp .env.example .env` and generate key: `php artisan key:generate`
 4. Run migrations: `php artisan migrate`
